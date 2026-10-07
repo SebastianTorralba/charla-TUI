@@ -1,0 +1,12 @@
+Agregá prioridad a las tareas: baja, media o alta.
+Si no se informa, usar media.
+Las tareas existentes deben seguir funcionando y mostrar media.
+Una prioridad inválida debe devolver HTTP 400.
+La prioridad debe guardarse en la base elegida y mostrarse en el frontend.
+
+Leé el contrato de API, la arquitectura, compose.yaml, la implementación y AGENTS.md.
+Primero presentá un plan; todavía no modifiques archivos.
+
+Incluí archivos afectados, cambios de contrato, tratamiento de registros antiguos
+y verificaciones propuestas. Si falta alguno de los archivos pedidos, informalo
+sin inventar su contenido.

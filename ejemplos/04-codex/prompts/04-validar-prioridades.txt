@@ -1,0 +1,6 @@
+Ejecutá $validar-funcionalidad.
+
+Después inspeccioná el diff y revisá los cambios. Separá en la respuesta:
+1. problemas detectados;
+2. pruebas ejecutadas y resultados observados;
+3. validaciones pendientes.

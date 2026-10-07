@@ -1,0 +1,4 @@
+Implementá el plan acordado para agregar prioridades.
+Respetá AGENTS.md y el stack elegido.
+Conservá las rutas y el comportamiento anterior.
+Al terminar, indicá archivos modificados y verificaciones ejecutadas.
