@@ -1,0 +1,14 @@
+NOTAS DEL WORKSHOP
+
+Estado: PENDIENTE
+
+Herramientas:
+- nano
+- tmux
+- Midnight Commander
+
+Tareas:
+- PENDIENTE: agregar una fecha.
+- PENDIENTE: mover esta línea al principio.
+- PENDIENTE: guardar una copia con otro nombre.
+

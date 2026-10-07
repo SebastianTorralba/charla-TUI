@@ -1,0 +1,2 @@
+Revisá los cambios actuales del backend. Buscá errores, regresiones, problemas de seguridad y diferencias con AGENTS.md. No modifiques archivos. Ordená los hallazgos por severidad.
+

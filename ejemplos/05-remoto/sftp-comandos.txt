@@ -1,0 +1,8 @@
+pwd
+ls -la
+lcd ../01-terminal/origen
+cd /tmp
+put presentacion.txt
+ls -la presentacion.txt
+bye
+

@@ -1,0 +1,8 @@
+Host taller-demo
+    HostName servidor.example.com
+    User estudiante
+    Port 22
+    IdentityFile ~/.ssh/id_ed25519
+    ServerAliveInterval 30
+    ServerAliveCountMax 3
+

@@ -1,0 +1,2 @@
+En ../02-docker-compose/backend/server.mjs agregá GET /api/time. Debe responder 200 con {"now":"fecha ISO 8601"}. No agregues dependencias ni cambies otras rutas. Ejecutá `node --check server.mjs` desde el backend y resumí el cambio.
+

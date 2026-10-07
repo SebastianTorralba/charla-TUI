@@ -1,0 +1,2 @@
+Inspeccioná ../02-docker-compose/backend/server.mjs. Explicá cómo se crea el servidor, qué rutas existen, cómo se cuentan las solicitudes y qué expone /metrics. No modifiques archivos.
+

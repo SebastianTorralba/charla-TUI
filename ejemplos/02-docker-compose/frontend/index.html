@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Modo Terminal</title>
+  <style>body{max-width:48rem;margin:4rem auto;padding:0 1rem;font:18px system-ui}button{padding:.7rem}pre{padding:1rem;color:#d5f5e3;background:#17202a}</style>
+</head>
+<body>
+  <h1>Modo Terminal</h1>
+  <p>Frontend servido por Nginx dentro de Docker.</p>
+  <button id="consultar">Consultar backend</button>
+  <pre id="resultado">Esperando…</pre>
+  <script>
+    document.querySelector("#consultar").onclick = async () => {
+      const output = document.querySelector("#resultado");
+      try {
+        const response = await fetch("http://localhost:8080/api/message");
+        output.textContent = JSON.stringify(await response.json(), null, 2);
+      } catch (error) { output.textContent = `Error: ${error.message}`; }
+    };
+  </script>
+</body>
+</html>
+

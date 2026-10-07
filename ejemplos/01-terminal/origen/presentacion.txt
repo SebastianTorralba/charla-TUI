@@ -1,0 +1,4 @@
+Workshop: Modo Terminal
+Duración: 2 horas
+Objetivo: desplegar una aplicación y desarrollar con IA desde la terminal.
+
